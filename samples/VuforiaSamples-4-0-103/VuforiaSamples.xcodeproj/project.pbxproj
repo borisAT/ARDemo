@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 47;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -28,9 +28,6 @@
 		1868D1BF17BD472000E47566 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1868D1BD17BD472000E47566 /* InfoPlist.strings */; };
 		1868D1C117BD472000E47566 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1868D1C017BD472000E47566 /* main.m */; };
 		1868D1C517BD472000E47566 /* SampleAppAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1868D1C417BD472000E47566 /* SampleAppAppDelegate.m */; };
-		1868D1C717BD472000E47566 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 1868D1C617BD472000E47566 /* Default.png */; };
-		1868D1C917BD472000E47566 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1868D1C817BD472000E47566 /* Default@2x.png */; };
-		1868D1CB17BD472000E47566 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1868D1CA17BD472000E47566 /* Default-568h@2x.png */; };
 		1868D20517BD892800E47566 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1868D20417BD892800E47566 /* QuartzCore.framework */; };
 		1868D20D17BD8EBE00E47566 /* Texture.mm in Sources */ = {isa = PBXBuildFile; fileRef = 1868D20817BD8EBE00E47566 /* Texture.mm */; };
 		1868D20E17BD8EBE00E47566 /* SampleApplicationSession.mm in Sources */ = {isa = PBXBuildFile; fileRef = 1868D20A17BD8EBE00E47566 /* SampleApplicationSession.mm */; };
@@ -56,12 +53,6 @@
 		18CD630117E2501D006154DF /* Line.fragsh in Resources */ = {isa = PBXBuildFile; fileRef = 18CD630017E2501D006154DF /* Line.fragsh */; };
 		18CD630317E25274006154DF /* Simple.fragsh in Resources */ = {isa = PBXBuildFile; fileRef = 18CD630217E25274006154DF /* Simple.fragsh */; };
 		18CD630517E25297006154DF /* Simple.vertsh in Resources */ = {isa = PBXBuildFile; fileRef = 18CD630417E25297006154DF /* Simple.vertsh */; };
-		18E04A1B17ECA83F00A11459 /* app_icon_iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 18E04A1717ECA83F00A11459 /* app_icon_iPad.png */; };
-		18E04A1C17ECA83F00A11459 /* app_icon_iPad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18E04A1817ECA83F00A11459 /* app_icon_iPad@2x.png */; };
-		18E04A1D17ECA83F00A11459 /* app_icon_iPhone.png in Resources */ = {isa = PBXBuildFile; fileRef = 18E04A1917ECA83F00A11459 /* app_icon_iPhone.png */; };
-		18E04A1E17ECA83F00A11459 /* app_icon_iPhone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18E04A1A17ECA83F00A11459 /* app_icon_iPhone@2x.png */; };
-		18E04A2517ECA85100A11459 /* Default-Portrait@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 18E04A2117ECA85100A11459 /* Default-Portrait@2x~ipad.png */; };
-		18E04A2617ECA85100A11459 /* Default-Portrait~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 18E04A2217ECA85100A11459 /* Default-Portrait~ipad.png */; };
 		18E9FF561A117AC0002CAA1F /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 18E9FF551A117AC0002CAA1F /* Localizable.strings */; };
 		18F1372017E0D83700F5846D /* SampleApplicationShaderUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F1371F17E0D83700F5846D /* SampleApplicationShaderUtils.m */; };
 		18F23EC1180872D40038252A /* SampleApplication3DModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F23EC0180872D40038252A /* SampleApplication3DModel.m */; };
@@ -101,9 +92,6 @@
 		1868D1C217BD472000E47566 /* VuforiaSamples-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "VuforiaSamples-Prefix.pch"; sourceTree = "<group>"; };
 		1868D1C317BD472000E47566 /* SampleAppAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SampleAppAppDelegate.h; sourceTree = "<group>"; };
 		1868D1C417BD472000E47566 /* SampleAppAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SampleAppAppDelegate.m; sourceTree = "<group>"; };
-		1868D1C617BD472000E47566 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
-		1868D1C817BD472000E47566 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
-		1868D1CA17BD472000E47566 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		1868D20417BD892800E47566 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		1868D20617BD8EBE00E47566 /* Teapot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Teapot.h; sourceTree = "<group>"; };
 		1868D20717BD8EBE00E47566 /* Texture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Texture.h; sourceTree = "<group>"; };
@@ -136,12 +124,6 @@
 		18CD630017E2501D006154DF /* Line.fragsh */ = {isa = PBXFileReference; explicitFileType = sourcecode.glsl; fileEncoding = 4; path = Line.fragsh; sourceTree = "<group>"; };
 		18CD630217E25274006154DF /* Simple.fragsh */ = {isa = PBXFileReference; explicitFileType = sourcecode.glsl; fileEncoding = 4; path = Simple.fragsh; sourceTree = "<group>"; };
 		18CD630417E25297006154DF /* Simple.vertsh */ = {isa = PBXFileReference; explicitFileType = sourcecode.glsl; fileEncoding = 4; path = Simple.vertsh; sourceTree = "<group>"; };
-		18E04A1717ECA83F00A11459 /* app_icon_iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = app_icon_iPad.png; sourceTree = "<group>"; };
-		18E04A1817ECA83F00A11459 /* app_icon_iPad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "app_icon_iPad@2x.png"; sourceTree = "<group>"; };
-		18E04A1917ECA83F00A11459 /* app_icon_iPhone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = app_icon_iPhone.png; sourceTree = "<group>"; };
-		18E04A1A17ECA83F00A11459 /* app_icon_iPhone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "app_icon_iPhone@2x.png"; sourceTree = "<group>"; };
-		18E04A2117ECA85100A11459 /* Default-Portrait@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait@2x~ipad.png"; sourceTree = "<group>"; };
-		18E04A2217ECA85100A11459 /* Default-Portrait~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait~ipad.png"; sourceTree = "<group>"; };
 		18E9FF551A117AC0002CAA1F /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		18F1371E17E0D83700F5846D /* SampleApplicationShaderUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleApplicationShaderUtils.h; sourceTree = "<group>"; };
 		18F1371F17E0D83700F5846D /* SampleApplicationShaderUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleApplicationShaderUtils.m; sourceTree = "<group>"; };
@@ -272,15 +254,6 @@
 				1868D1BD17BD472000E47566 /* InfoPlist.strings */,
 				1868D1C017BD472000E47566 /* main.m */,
 				1868D1C217BD472000E47566 /* VuforiaSamples-Prefix.pch */,
-				1868D1C617BD472000E47566 /* Default.png */,
-				1868D1C817BD472000E47566 /* Default@2x.png */,
-				1868D1CA17BD472000E47566 /* Default-568h@2x.png */,
-				18E04A1717ECA83F00A11459 /* app_icon_iPad.png */,
-				18E04A1817ECA83F00A11459 /* app_icon_iPad@2x.png */,
-				18E04A1917ECA83F00A11459 /* app_icon_iPhone.png */,
-				18E04A1A17ECA83F00A11459 /* app_icon_iPhone@2x.png */,
-				18E04A2117ECA85100A11459 /* Default-Portrait@2x~ipad.png */,
-				18E04A2217ECA85100A11459 /* Default-Portrait~ipad.png */,
 				18E9FF551A117AC0002CAA1F /* Localizable.strings */,
 			);
 			name = "Supporting Files";
@@ -407,11 +380,11 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = ARDemo;
-				LastUpgradeCheck = 0460;
+				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "APA-IT";
 			};
 			buildConfigurationList = 1868D1AC17BD472000E47566 /* Build configuration list for PBXProject "VuforiaSamples" */;
-			compatibilityVersion = "Xcode 6.3";
+			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -433,9 +406,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1868D1BF17BD472000E47566 /* InfoPlist.strings in Resources */,
-				1868D1C717BD472000E47566 /* Default.png in Resources */,
-				1868D1C917BD472000E47566 /* Default@2x.png in Resources */,
-				1868D1CB17BD472000E47566 /* Default-568h@2x.png in Resources */,
 				188BB42C17BD98D60080509A /* TextureTeapotBlue.png in Resources */,
 				13656A291AE80B1200794868 /* Images.xcassets in Resources */,
 				188BB42D17BD98D60080509A /* TextureTeapotBrass.png in Resources */,
@@ -452,12 +422,6 @@
 				189F1737180DADB80012EA57 /* building_texture.jpeg in Resources */,
 				18E9FF561A117AC0002CAA1F /* Localizable.strings in Resources */,
 				18F23EC3180877570038252A /* buildings.txt in Resources */,
-				18E04A1B17ECA83F00A11459 /* app_icon_iPad.png in Resources */,
-				18E04A1C17ECA83F00A11459 /* app_icon_iPad@2x.png in Resources */,
-				18E04A1D17ECA83F00A11459 /* app_icon_iPhone.png in Resources */,
-				18E04A1E17ECA83F00A11459 /* app_icon_iPhone@2x.png in Resources */,
-				18E04A2517ECA85100A11459 /* Default-Portrait@2x~ipad.png in Resources */,
-				18E04A2617ECA85100A11459 /* Default-Portrait~ipad.png in Resources */,
 				1860C90617F1EB6F00078D7A /* IT_about.html in Resources */,
 				1860C90717F1EB6F00078D7A /* StonesAndChips.dat in Resources */,
 				1860C90817F1EB6F00078D7A /* StonesAndChips.xml in Resources */,
@@ -568,11 +532,6 @@
 		1868D1D817BD472000E47566 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = (
-					armv7s,
-					armv7,
-					arm64,
-				);
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
@@ -593,11 +552,6 @@
 		1868D1D917BD472000E47566 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = (
-					armv7s,
-					armv7,
-					arm64,
-				);
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;

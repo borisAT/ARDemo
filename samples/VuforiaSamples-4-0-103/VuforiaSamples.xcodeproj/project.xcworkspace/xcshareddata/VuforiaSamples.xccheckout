@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>5ADDE97D-09A3-4DE7-970F-353E96D92C2F</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>VuforiaSamples</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>4AF4A93CE73C7CF70CC9687EA8FAB3AA7766A5A7</key>
 		<string>https://github.com/borisAT/ARDemo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>samples/VuforiaSamples-4-0-103/VuforiaSamples.xcodeproj/project.xcworkspace</string>
+	<string>samples/VuforiaSamples-4-0-103/VuforiaSamples.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>4AF4A93CE73C7CF70CC9687EA8FAB3AA7766A5A7</key>
