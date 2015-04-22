@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -406,12 +406,12 @@
 		1868D1A917BD472000E47566 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				CLASSPREFIX = SampleApp;
+				CLASSPREFIX = ARDemo;
 				LastUpgradeCheck = 0460;
-				ORGANIZATIONNAME = Qualcomm;
+				ORGANIZATIONNAME = "APA-IT";
 			};
 			buildConfigurationList = 1868D1AC17BD472000E47566 /* Build configuration list for PBXProject "VuforiaSamples" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
