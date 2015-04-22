@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		13656A291AE80B1200794868 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13656A281AE80B1200794868 /* Images.xcassets */; };
 		1837321717C55EB400756F62 /* SampleAppMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 1837321617C55EB400756F62 /* SampleAppMenu.m */; };
 		1837321D17C55EE700756F62 /* SampleAppAboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1837321917C55EE700756F62 /* SampleAppAboutViewController.m */; };
 		1837321E17C55EE700756F62 /* SampleAppAboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1837321A17C55EE700756F62 /* SampleAppAboutViewController.xib */; };
@@ -68,6 +69,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		13656A281AE80B1200794868 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		1837321517C55EB400756F62 /* SampleAppMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleAppMenu.h; sourceTree = "<group>"; };
 		1837321617C55EB400756F62 /* SampleAppMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SampleAppMenu.m; sourceTree = "<group>"; };
 		1837321817C55EE600756F62 /* SampleAppAboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleAppAboutViewController.h; sourceTree = "<group>"; };
@@ -257,6 +259,7 @@
 				1868D1EA17BD4ED100E47566 /* Classes */,
 				1868D1C317BD472000E47566 /* SampleAppAppDelegate.h */,
 				1868D1C417BD472000E47566 /* SampleAppAppDelegate.m */,
+				13656A281AE80B1200794868 /* Images.xcassets */,
 				1868D1BB17BD472000E47566 /* Supporting Files */,
 			);
 			path = VuforiaSamples;
@@ -434,6 +437,7 @@
 				1868D1C917BD472000E47566 /* Default@2x.png in Resources */,
 				1868D1CB17BD472000E47566 /* Default-568h@2x.png in Resources */,
 				188BB42C17BD98D60080509A /* TextureTeapotBlue.png in Resources */,
+				13656A291AE80B1200794868 /* Images.xcassets in Resources */,
 				188BB42D17BD98D60080509A /* TextureTeapotBrass.png in Resources */,
 				188BB42E17BD98D60080509A /* TextureTeapotGreen.png in Resources */,
 				188BB42F17BD98D60080509A /* TextureTeapotRed.png in Resources */,
@@ -569,6 +573,8 @@
 					armv7,
 					arm64,
 				);
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 21;
@@ -592,6 +598,8 @@
 					armv7,
 					arm64,
 				);
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 21;
