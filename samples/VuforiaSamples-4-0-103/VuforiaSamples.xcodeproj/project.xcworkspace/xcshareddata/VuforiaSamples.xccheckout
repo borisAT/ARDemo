@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5ADDE97D-09A3-4DE7-970F-353E96D92C2F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VuforiaSamples</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4AF4A93CE73C7CF70CC9687EA8FAB3AA7766A5A7</key>
+		<string>https://github.com/borisAT/ARDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>samples/VuforiaSamples-4-0-103/VuforiaSamples.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4AF4A93CE73C7CF70CC9687EA8FAB3AA7766A5A7</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/borisAT/ARDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4AF4A93CE73C7CF70CC9687EA8FAB3AA7766A5A7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4AF4A93CE73C7CF70CC9687EA8FAB3AA7766A5A7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ARDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

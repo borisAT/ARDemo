@@ -25,8 +25,8 @@ and other countries. Trademarks of QUALCOMM Incorporated are used with permissio
 // your credentials, especially with untrusted third parties, and should
 // take the appropriate steps to protect them within your application code
 // ----------------------------------------------------------------------------
-static const char* const kAccessKey = "869a299f9911cd84f189d69fe8d5f79f35304372";
-static const char* const kSecretKey = "ad4a7110ad50100b22474f166d7ef4f5b3887a30";
+static const char* const kAccessKey = "bdb1bd0ad55ee8f4a91203cb02b688efe7d1d9fd";
+static const char* const kSecretKey = "da8d8abda635acdb171cee8d4b333ea72a4b8399";
 
 @interface AppAlertViewDelegate : NSObject <UIAlertViewDelegate>{
 }

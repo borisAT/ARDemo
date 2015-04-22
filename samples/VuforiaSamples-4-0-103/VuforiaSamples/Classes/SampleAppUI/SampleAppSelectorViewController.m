@@ -33,13 +33,10 @@ and other countries. Trademarks of QUALCOMM Incorporated are used with permissio
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         // Custom initialization
-        self.title = @"Vuforia Samples";
+        self.title = @"AR Demo";
         self.sampleApplications = [NSMutableArray arrayWithCapacity:12];
-        [self addApplication:@"Image Targets" viewControllerClassName:@"ImageTargetsViewController" aboutPageName:@"IT_about"];
+        [self addApplication:@"Lokale Bilderkennung" viewControllerClassName:@"ImageTargetsViewController" aboutPageName:@"IT_about"];
         [self addApplication:@"Cloud Reco" viewControllerClassName:@"CloudRecoViewController" aboutPageName:@"CR_about"];
-        [self addApplication:@"Text Reco" viewControllerClassName:@"TextRecoViewController" aboutPageName:@"TR_about"];
-        [self addApplication:@"Frame Markers" viewControllerClassName:@"FrameMarkersViewController" aboutPageName:@"FM_about"];
-        [self addApplication:@"Virtual Buttons" viewControllerClassName:@"VirtualButtonsViewController" aboutPageName:@"VB_about"];
     }
     return self;
 }
